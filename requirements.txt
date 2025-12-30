@@ -1,0 +1,2 @@
+soprano-tts
+torch
