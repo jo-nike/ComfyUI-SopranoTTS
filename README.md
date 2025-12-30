@@ -1,6 +1,6 @@
 # ComfyUI-SopranoTTS
 
-ComfyUI custom nodes for [Soprano TTS](https://github.com/ekwek1/soprano-tts) - a fast, lightweight text-to-speech model.
+ComfyUI custom nodes for [Soprano TTS](https://github.com/ekwek1/soprano) - a fast, lightweight text-to-speech model.
 
 ## Features
 
